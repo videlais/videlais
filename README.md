@@ -18,7 +18,7 @@ Based on my [YouTube channel](https://www.youtube.com/channel/UCTWJzxNdsIDHiYzGh
 
 ## Documentation Contributions
 
-I contributed significantly to Twine-related documentation projects while serving as part of the Twine Committee from 2017 to 2022. Beginning early 2023, I also occasionally consult or have helped with historical documentation efforts.
+I contributed significantly to Twine-related documentation projects while serving as part of the [Interactive Fiction Technology Foundation (IFTF) Twine Committee](https://iftechfoundation.org/committees/twine/) from 2017 to 2022. Beginning early 2023, I also occasionally consult with historical documentation efforts.
 
 - [Twine Cookbook](https://github.com/iftechfoundation/twine-cookbook)
 - [Twine Specifications](https://github.com/iftechfoundation/twine-specs)
