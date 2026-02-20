@@ -1,4 +1,4 @@
-# Daniel Cox, PhD (he/they)
+# Daniel Cox, PhD (they/them)
 
 ## Personal Projects
 
